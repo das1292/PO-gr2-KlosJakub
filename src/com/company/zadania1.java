@@ -42,7 +42,7 @@ public class zadania1 {
         //zad10
         System.out.println("1.Fast and Furious\n2.Deadpool\n3.Matrix");
         //zad11
-        System.out.println("Dłoń\n\n" +
+        System.out.println("Dłoń \n\" +
                 "Dwadzieścia siedem kości,\n" +
                 "trzydzieści pięć mięśni,\n" +
                 "około dwóch tysięcy komórek nerwowych\n" +
