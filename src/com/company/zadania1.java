@@ -42,14 +42,14 @@ public class zadania1 {
         //zad10
         System.out.println("1.Fast and Furious\n2.Deadpool\n3.Matrix");
         //zad11
-        System.out.println("Dłoń \n\" +
+        System.out.println("Dłoń \n" +
                 "Dwadzieścia siedem kości,\n" +
-                "trzydzieści pięć mięśni,\n" +
-                "około dwóch tysięcy komórek nerwowych\n" +
-                "w każdej opuszce naszych pięciu palców.\n" +
-                "To zupełnie wystarczy,\n" +
-                "żeby napisać „Mein Kampf”\n" +
-                "albo „Chatkę Puchatka”.");
+                        "trzydzieści pięć mięśni,\n" +
+                        "około dwóch tysięcy komórek nerwowych\n" +
+                        "w każdej opuszce naszych pięciu palców.\n" +
+                        "To zupełnie wystarczy,\n" +
+                        "żeby napisać „Mein Kampf”\n" +
+                        "albo „Chatkę Puchatka”.");
         //zad12
         System.out.println("* * * * * * =========================================================");
         System.out.println(" * * * * *  =========================================================");
