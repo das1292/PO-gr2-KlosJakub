@@ -15,7 +15,9 @@ public class zadania1 {
         //zad3
         int ilocz=1;
         for (int i=1;i<=10;i++)
-            ilocz*=i;
+        {
+            ilocz *= i;
+        }
         System.out.println(ilocz);
         //zad4
         float saldoKonta=1000;
